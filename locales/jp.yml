@@ -13,19 +13,19 @@ jp:
     title: シークレットコード
   about:
     contact_info: 連絡先情報
-    email_us: Email us at <a href="mailto:support@fetlife.com">support@fetlife.com</a> and we will get back to you in a jiffy lube!
+    email_us: で私達に電子メールを送り<a href="mailto:support@fetlife.com">support@fetlife.com</a>迅速にご連絡いたします… 潤滑油を着用するよりも早く！
     europe: 欧州
     got_question: 質問がありますか？助けが必要？
     north_america: 北米
     one_love: ワンラブ、ワンライフ、そしてたくさんのねじれ。
     snail_mail: 手紙
     sub_header: スパルタと混同しないように。
-    title: ウィ. アレ. FetLife！
+    title: ウィ！ アレ！ FetLife！
   components:
     step: ステップ
   edit_profile:
     sidebar_questions:
-      pics_and_vids_discoverability_a: Through FetLife’s search, your pics and vids are only findable by friends and followers. If you want other FetLifers to discover your kinkalicious pics and vids, you can update your privacy settings.
+      pics_and_vids_discoverability_a: FetLife検索を通じて、あなたの写真やビデオは友達やフォロワーだけが見つけることができます。 他のFetLifersにあなたの'kinkalicious'の写真やビデオを見つけてもらいたい場合は、プライバシー設定を更新できます。
       pics_and_vids_discoverability_link: 設定に移動
       pics_and_vids_discoverability_q: 写真とビデオの発見可能性
   feed:
@@ -57,55 +57,55 @@ jp:
     privacy: プライバシー
   forgot_password:
     email:
-      cta: Send me Email with Instructions
-      error_forgot_email: Email address is required.
-      error_invalid_email: That doesn't look like a valid email address. Mind reviewing it and re-submitting please.
-      error_quota: We've recently sent a reset email to the above email address.  It can take up to 5-10 minutes for an email to show up in your inbox.  Please double check that the email did not end up in your spam folder.  If after 10 minutes you have not received the email you may try again to reset your password.
+      cta: 手順を記載したメールを送って
+      error_forgot_email: メールアドレスが必要です。
+      error_invalid_email: それは有効なメールアドレスのようには見えません。 もう一度見て再送信してください。
+      error_quota: 上記のメールアドレスにリセットメールを送信しました。メールが受信トレイに表示されるまで、最大5〜10分かかる場合があります。メールがスパムフォルダにないことを再確認してください。10分経ってもメールが届かない場合は、パスワードのリセットを再試行して。
       placeholder: 電子メールアドレス
       step1:
-        page_title: Reset Password via Email
-        subtitle: Let me help you with that.
+        page_title: メールでパスワードをリセット
+        subtitle: 手伝わせて。
         title: パスワードを忘れた？
       step2:
-        page_title: You "MIGHT" Have Mail
-        subtitle: If there is a profile associated to <span class='fw7'>%{given_email}</span> then we've sent you instructions on how to reset your password.
-        title: You &ldquo;Might&rdquo; Have Mail!
+        page_title: あなたはメールを持っている「かもしれない」
+        subtitle: <span class='fw7'>%{given_email}</span> に関連付けられたプロファイルがある場合は、パスワードをリセットする方法の説明を送信しました。
+        title: あなたはメールを持っている　&ldquo;かもしれない&rdquo;
       update_email: メールアドレスを更新する
-      warning: "<strong>Surgeon Generals Warning:</strong> For security reasons, we can't tell you if an email address exists in our database or not. If you don't get an email from us, it's most likely because we don't have an account associated with that email address."
+      warning: "<strong>外科医総長の警告：</strong> セキュリティ上の理由から、データベースにメールアドレスが存在するかどうかはかりません。メールが届かない場合は、そのメールアドレスにアカウントが関連付けられていない可能性があります。"
     mobile:
       5strike:
         return: フロントページに戻る
         subtitle: くそ、セキュリティ上の理由から、再試行できるようになるまで2時間待つ必要があります。
         title: ファイブストライクルール
-      cta: Send me Text Message
-      error_country_code: "<strong>変態オペレーター:</strong> Make sure you start your number with your country code: +1 for the US and Canada, +44 for the UK, +61 for Australia, +31 for Netherlands, +49 for Germany, +33 for France, etc."
-      error_quota: "<strong>変態オペレーター:</strong> Shoot, we can only try to send up to 3 text messages every 24 hours to any mobile number. If the number exists in our database or not."
-      pro_tip: "<strong>Pro Tip:</strong> Make sure you start your number with your country code: +1 for the US and Canada, +44 for the UK, +61 for Australia, +31 for Netherlands, +49 for Germany, +33 for France, etc."
+      cta: テキストメッセージを送って
+      error_country_code: "<strong>変態オペレーター：</strong> 番号は必ず国番号で始めてください： 米国とカナダの場合は+1、 英国の場合は+44、 オーストラリアの場合は+61、オランダの場合は+31、ドイツの場合は+49、フランスの場合は+33、などなぢ。"
+      error_quota: "<strong>変態オペレーター：</strong> くそ、24時間ごとに最大3つのテキストメッセージを任意の携帯電話番号に送信することしかできません。 番号が存在する場合。"
+      pro_tip: "<strong>プロのヒント：</strong> 番号は必ず国番号で始めてください： 米国とカナダの場合は+1、 英国の場合は+44、 オーストラリアの場合は+61、オランダの場合は+31、ドイツの場合は+49、フランスの場合は+33、などなぢ。"
       step1:
-        page_title: Reset Password via Text Message
-        subtitle: Let me help you with that.
+        page_title: テキストメッセージでパスワードをリセット
+        subtitle: 手伝わせて。
         title: パスワードを忘れた？
       step2:
-        cta: Verify You are You &#8482;
-        error_code_match: "<strong>変態オペレーター:</strong> Verification code you entered is incorrect. Verify that the number above matches what you received from us and please try again. This is a recording."
+        cta: 自分を確認する &#8482;
+        error_code_match: "<strong>変態オペレーター：</strong> 入力した確認コードが正しくありません。上記の番号が受け取った番号と一致することを確認してもう一度お試しください。これは録音です。"
         inexisting_number: If after a couple minutes you don't receive a text message from us, then it's probably because we don't have a profile attached to your number. We recommend you either <a href="%{forgot_password_email_path}">try resetting your password using another method</a> or <a href="%{signup_path}">setup a new profile on FetLife</a>.
-        label: 6-digit Verification Code
-        page_title: Enter Verification Code
-        subtitle: Please enter the 6-digit code we "might" have just sent to you at %{phone_number}.
-        title: Enter Verification Code
-      warning: "<strong>Surgeon Generals Warning:</strong> For security reasons, we can't tell you if a mobile number exists in our database or not. If you don't get a text message from us, it's most likely because we don't have an account associated with that number."
+        label: 6桁の確認コード
+        page_title: 認証コードを入力して
+        subtitle: %{phone_number} に送信した6桁の確認コードを入力してください。
+        title: 認証コードを入力して
+      warning: "<strong>外科医総長の警告：</strong> For security reasons, we can't tell you if a mobile number exists in our database or not. If you don't get a text message from us, it's most likely because we don't have an account associated with that number."
     next_step: 次の一歩
-    return_to_login: return to login
-    tab_email: Eメール
+    return_to_login: ログインに戻る
+    tab_email: メール
     tab_mobile: ケータイ
   groups:
     new:
-      description_label: Description
-      description_placeholder: What's the group about?
+      description_label: 説明
+      description_placeholder: グループは何についてですか？
       loader_text: Oh no you didn't!
-      membership_restrictions_label: Restricted to
-      membership_restrictions_placeholder: ex. submissives...
-      membership_restrictions_sub_label: leave blank if open to everyone
+      membership_restrictions_label: に制限
+      membership_restrictions_placeholder: ex. エス…
+      membership_restrictions_sub_label: 誰でも利用できる場合は空白のままにします
       name_label: 名前
       name_placeholder: What's the name of your group?
       page_title: Start a New Group
